@@ -1,5 +1,6 @@
 # Login e Cadastro - Desenvolvimento de Interfaces
-Este projeto consiste em telas de Login e Cadastro desenvolvidas com HTML, CSS, JavaScript e Bootstrap. </br> As interfaces seguem o design do @2022yanliudesigns.
+Este projeto consiste em telas de Login e Cadastro desenvolvidas com HTML, CSS, JavaScript e Bootstrap. </br> 
+As interfaces seguem o design do @2022yanliudesigns.
 
 Tecnologias Utilizadas:
 - Html
