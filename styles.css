@@ -1,0 +1,12 @@
+#logo {
+    width: 48px;
+    height: auto;
+}
+
+.custom-rounded {
+    border-radius: 1.5rem !important; /* aumenta o arredondamento, ajuste o valor como quiser */
+  }
+
+.hide{
+    display: none;
+}
